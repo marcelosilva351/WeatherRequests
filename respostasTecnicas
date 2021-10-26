@@ -1,0 +1,7 @@
+Quanto tempo você usou para completar a solução apresentada? O que você faria se tivesse mais tempo?
+Levei em torno de 2:30hrs para fazer o projeto, realmente queria ter mais tempo para fazer algo grande, mas a faculdade e o trabalho não permitem
+decidi fazer o projeto com o tempo que tinha o que sabia, se eu tivesse mais tempo com certeza queria testa-lo 
+
+Se usou algum framework, qual foi o motivo de ter usado este? Caso contrário, por que não utilizou nenhum?
+Usei o Asp net core para criar a Api usei o pacote do entity framework para persistir no banco, AutoMapper para transformar minha entidade de weather em Dto e vice e versa,
+poderia ultilizar o pacote de jwt e ter autenticação na Api, quem sabe até o identity se quisesse fazer um usuario
